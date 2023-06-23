@@ -1,4 +1,4 @@
-# Opencourseware v2.0
+# Opencourseware
 
 ## tools used:
 
